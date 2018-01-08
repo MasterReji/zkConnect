@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="javac">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/site/apidocs" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/site/testapidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/integration/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/jcl-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/jcl-over-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/jul-to-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/jul-to-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/log4j-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/log4j-over-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/osgi-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-api/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-api/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-ext/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-ext/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-jdk14/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-jdk14/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-log4j12/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-log4j12/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-migrator/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-migrator/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-nop/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-nop/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-simple/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j.jar!/slf4j-simple/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

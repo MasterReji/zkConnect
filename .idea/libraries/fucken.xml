@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="fucken">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/integration/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/jcl-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/jcl-over-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/jul-to-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/jul-to-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/log4j-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/log4j-over-slf4j/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/osgi-over-slf4j/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-api/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-api/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-ext/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-ext/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-jdk14/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-jdk14/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-log4j12/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-log4j12/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-migrator/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-migrator/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-nop/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-nop/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-simple/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/slf4j-1.8.0-beta0.jar!/slf4j-1.8.0-beta0/slf4j-simple/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
